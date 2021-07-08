@@ -1,10 +1,12 @@
+# Project Web scraping and sentiment analysis on Twitter
+
+Written in French by PHAM Dong Pha, MENARD June-Camille , COMOY Matthieu : a group of students in Master Data science and Digital Society - France
+
 The objective of this project is to write a program that will proceed to
 the semantic indexing (or annotation) of the emotions of tweets. Other
 said, your program should:
 - "scrape" tweets
 - associate semantic labels (identified by their IRI) to the
 tweet representing the detected emotions.
-
-Written in French by PHAM Dong Pha, MENARD June-Camille , COMOY Matthieu : a group of students in Master Data science and Digital Society - France
 
 Note: The report, explain and analyze the code will be written in French
