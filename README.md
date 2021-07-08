@@ -1,1 +1,6 @@
-# Machine-learning---Web-scrapping-Analyse-des-sentiments-et-des-motions-
+The objective of this project is to write a program that will proceed to
+the semantic indexing (or annotation) of the emotions of tweets. Other
+said, your program should:
+- "scrape" tweets
+- associate semantic labels (identified by their IRI) to the
+tweet representing the detected emotions.
