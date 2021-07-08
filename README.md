@@ -4,3 +4,5 @@ said, your program should:
 - "scrape" tweets
 - associate semantic labels (identified by their IRI) to the
 tweet representing the detected emotions.
+
+Note: The report, explain and analyze the code will be written in French
