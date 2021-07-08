@@ -1,4 +1,4 @@
-# Project Web scraping and sentiment analysis on Twitter
+# Project : Web scraping and sentiment analysis on Twitter
 
 Written in French by PHAM Dong Pha, MENARD June-Camille , COMOY Matthieu : a group of students in Master Data science and Digital Society - France
 
