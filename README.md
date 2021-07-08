@@ -5,4 +5,6 @@ said, your program should:
 - associate semantic labels (identified by their IRI) to the
 tweet representing the detected emotions.
 
+Written by PHAM Dong Pha, June Camille, Comoy Matthieu - a group of students in Master Data science and Digital Society - France
+
 Note: The report, explain and analyze the code will be written in French
